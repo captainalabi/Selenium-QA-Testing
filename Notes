@@ -1,0 +1,12 @@
+download java
+configure environment variables
+launch eclipse IDE
+create a new java project
+download webdriver jar
+Download selenium server (Grid) or selenium client and webdriver language (java) bindings
+Create c:/browserdriver folder
+download the browser driver you want to use and put them in the c:/browserdriver folder you created
+set property for webdriver: System.setProperty("webdriver.chrome.driver", "c:\\browserdriver\\chromedriver.exe"); might not be neccessary
+
+SETUP SELENIUM DEVELOPMENT ENVIRONMENT
+download selenium server and add it to the project library build path as an external jar file
